@@ -1,9 +1,9 @@
-# PathLab Website Clone By *The Tech Troupe of 7*
+# Interactive README for Your Website Project*
 
-### Welcome to the PathLab Website Clone! This project is a replica of the PathLab website, developed using HTML, CSS (including Tailwind CSS), and JavaScript. In this README, you'll find all the information about this project.
+### Welcome to the interactive README for your website project! In this README, we'll explore the structure of your website by discussing the different sections and tags used in your HTML file (index.html) and the corresponding styling in your CSS file (styles.css). We'll also include screenshots to visually guide you through your website..
 ---
 
-## Hosted Link: [Click Here](https://jaitensahu.github.io/Project-Dr.PathLab/Patients)
+## Hosted Link: [Click Here](https://github.com/MDAEJA/Assigment_Apollo_repo.git)
 ---
 
 ## Table of Contents:-
@@ -20,19 +20,19 @@
 
 ## Introduction:
 
-The PathLab Website Clone is a web application that mimics the functionality and design of the original PathLab website. It provides a platform for users to access and manage medical test reports, schedule appointments, and interact with healthcare services seamlessly.
+The Apollo 24/7 Website Clone is a web application that mimics the functionality and design of the original PathLab website. It provides a platform for users to access and manage medical test reports, schedule appointments, and interact with healthcare services seamlessly.
 
 ---
 
 ## Project:
 - This project was assigned by [Geekster](https://www.geekster.in/) as a **Major Project** for a team of 7 members:
-  - Jaiten Sahu (TEAM LEAD)
-  - Sakshi Thakare
-  - Lokesh Kataria
-  - Virendra Kumar Yadav
-  - Abhishek Sharma 
-  - Abhay Chauhan 
-  - Shweta Sharma 
+  - Md Aejaz Ahmed (TEAM LEAD)
+  - Pranjul Mittal
+  - Hemant Dubey
+  - Chetan Sawale
+  - Monal Nagar 
+  - Jay Jadhao 
+  - Prdhumn Chandrawat 
 
 - It was an exciting opportunity for us to apply our skills and collaborate with fellow learners to create a functional and polished clone of the PathLab website.
 ---
