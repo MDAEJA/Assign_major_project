@@ -122,14 +122,13 @@ Throughout the development of our Lalpathlabs Clone Website Project, our team en
 - This project is licensed under the [Geekster](LICENSE).
 - You are free to use and modify this code for your own purposes.
   
-  ![Untitled (2)](https://github.com/jaitensahu/Project-Dr.PathLab/assets/127736781/4af56c6e-f2fd-4a69-b2fd-32322486ede8)
----
 
 ## Website UI Explanation
 
-**1. Patient Section UI**
+**1. Home Section UI**
 
-![image](https://github.com/Abhishek-Sharma-007/Project-Dr.PathLab/assets/84591804/c5e6860e-adfa-479f-a6ba-8ed3be6bca7d)
+![image](https://github.com/MDAEJA/Assign_major_project/assets/149299483/e7bdea31-b1a8-40ad-9d1b-9cd5f0290de3)
+
 
 ***UI Description: The "Patients" section is designed with a patient-centric approach. The UI focuses on user-friendly navigation, allowing patients to easily access services such as booking tests, locating nearby centers, downloading reports, and exploring special programs and promotions.***
 
