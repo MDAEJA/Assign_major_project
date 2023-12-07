@@ -130,75 +130,51 @@ Throughout the development of our Lalpathlabs Clone Website Project, our team en
 ![image](https://github.com/MDAEJA/Assign_major_project/assets/149299483/e7bdea31-b1a8-40ad-9d1b-9cd5f0290de3)
 
 
-***UI Description: The "Patients" section is designed with a patient-centric approach. The UI focuses on user-friendly navigation, allowing patients to easily access services such as booking tests, locating nearby centers, downloading reports, and exploring special programs and promotions.***
+***UI Description: The "Home" section is designed . The UI focuses on user-friendly navigation, allowing patients to easily access services such as booking tests, locating nearby centers, downloading reports, and exploring special programs and promotions.***
 
-**2. Doctors Section UI**
+**2. Medicines Section UI**
 
-![Diagnostic Center and Pathology Lab for Blood Test _ Dr Lal PathLab - Personal - Microsoft​ Edge 08-09-2023 00_46_01](https://github.com/Abhishek-Sharma-007/Project-Dr.PathLab/assets/84591804/0571fa4f-6eb6-4dab-a418-94e213627653)
+![image](https://github.com/MDAEJA/Assign_major_project/assets/149299483/94323ef3-48fe-4258-b34e-a9c0a9854869)
+
+***UI Description: The "Medicine" section provides an interface healthcare professionals. The UI ensures Medicines can access resources like Baby Care Product, lab information, event details, quality standards, and educational materials effortlessly. It may include dedicated portals for doctors to manage patient data and appointments.***
+
+**3. Lab Test UI**
+
+![image](https://github.com/MDAEJA/Assign_major_project/assets/149299483/eaf42f73-f439-4027-afef-b71f64d81cf6)
+
+
+***UI Description: The "Lab Test" section aims to engage proper test faclities to the pateints. The UI presents information aboout Lab Test, benefits, and contact details clearly. It may include forms or contact methods for LabTest inquiries.***
+
+**4. Health Recors UI**
+
+![image](https://github.com/MDAEJA/Assign_major_project/assets/149299483/bee2025a-8d12-4d91-9d96-62443a7f9f3e)
+
+
+***UI Description: The "Health Records" section is often one of the most visited on a website. The UI presents the Patients history, mission, values, and leadership. It may include interactive timelines, videos, and team member profiles to engage users effectively.***
+Business Partnership Section UI - Key Features
+
+**5. Circle UI**
+
+![image](https://github.com/MDAEJA/Assign_major_project/assets/149299483/40855611-bb98-43b1-a6dd-eddc31149864)
+
+
+***UI Description: The "Circle" section  we provide home delivery . The UI provides access to Delivry option, ,. It may include interactive charts and graphs for financial data visualization.***
+
+**6. CONSULT US UI**
+      ![image](https://github.com/MDAEJA/Assign_major_project/assets/149299483/b84a5f8d-d2c3-41f9-af32-e4a4bcbb8520)
+
+
 
 ***UI Description: The "Doctors" section provides an interface for doctors and healthcare professionals. The UI ensures doctors can access resources like test catalogs, lab information, event details, quality standards, and educational materials effortlessly. It may include dedicated portals for doctors to manage patient data and appointments.***
 
-**3. BUSINESS PARTNERSHIP UI**
 
-![Diagnostic Center and Pathology Lab for Blood Test _ Dr Lal PathLab - Personal - Microsoft​ Edge 08-09-2023 00_46_21](https://github.com/Abhishek-Sharma-007/Project-Dr.PathLab/assets/84591804/bbbdbfd5-f858-409b-a011-a44aea006092)
-
-***UI Description: The "Business Partnership" section aims to engage potential business partners. The UI presents information about partnership opportunities, benefits, and contact details clearly. It may include forms or contact methods for partnership inquiries.***
-
-**4. ABOUT US UI**
-
-![Diagnostic Center and Pathology Lab for Blood Test _ Dr Lal PathLab - Personal - Microsoft​ Edge 08-09-2023 00_46_24](https://github.com/Abhishek-Sharma-007/Project-Dr.PathLab/assets/84591804/1c9a0edc-d40e-4284-8e92-1e83d03856c4)
-
-***UI Description: The "About Us" section is often one of the most visited on a website. The UI presents the company's history, mission, values, and leadership. It may include interactive timelines, videos, and team member profiles to engage users effectively.***
-Business Partnership Section UI - Key Features
-
-**5. INVESTORS UI**
-
-![Diagnostic Center and Pathology Lab for Blood Test _ Dr Lal PathLab - Personal - Microsoft​ Edge 08-09-2023 00_46_29](https://github.com/Abhishek-Sharma-007/Project-Dr.PathLab/assets/84591804/68afe452-d0f9-431d-985b-5a9ec71c971b)
-
-***UI Description: The "Investors" section caters to investors and stakeholders. The UI provides access to financial reports, shareholder information, corporate governance details, and investor relations contacts. It may include interactive charts and graphs for financial data visualization.***
-
-**6. CONTACT US UI**
-
-![Diagnostic Center and Pathology Lab for Blood Test _ Dr Lal PathLab - Personal - Microsoft​ Edge 08-09-2023 00_46_37](https://github.com/Abhishek-Sharma-007/Project-Dr.PathLab/assets/84591804/8c719a2a-7cd8-4f06-a06e-00f242ec4e4b)
-
-***In the "Company Section" of our website clone project, we aim to replicate the presentation of essential company information as seen on the official Dr. Lal PathLabs website. This section provides users with details about the company's registered office, contact information, and information for investors and grievances.***
-
-**7. BLOGS UI**
-
-![Diagnostic Center and Pathology Lab for Blood Test _ Dr Lal PathLab - Personal - Microsoft​ Edge 08-09-2023 00_47_37](https://github.com/Abhishek-Sharma-007/Project-Dr.PathLab/assets/84591804/614c543a-66d5-40b9-b638-8038696ee9ba)
-
-***UI Description: The "Blogs" section provides a visually appealing and organized presentation of blog posts. The UI allows users to explore and read blog articles on various healthcare topics. It may feature categories, tags, and comment sections for user engagement.***
-
-**8. FAQS (Frequently Asked Questions) UI**
-
-![Diagnostic Center and Pathology Lab for Blood Test _ Dr Lal PathLab - Personal - Microsoft​ Edge 08-09-2023 00_47_46](https://github.com/Abhishek-Sharma-007/Project-Dr.PathLab/assets/84591804/b89a223a-8e4d-4f98-b8ae-8e68968a9645)
-
-***UI Description: The "FAQs" section offers a well-structured UI for users seeking quick answers to common queries. It includes a categorized list of frequently asked questions and clear, concise answers. The UI may provide a search function for ease of use.***
-
-**9. Book a Test UI**
-
-![Diagnostic Center and Pathology Lab for Blood Test _ Dr Lal PathLab - Personal - Microsoft​ Edge 08-09-2023 00_48_19](https://github.com/Abhishek-Sharma-007/Project-Dr.PathLab/assets/84591804/57e931ed-1e21-47c3-a5e3-91d8c1d20242)
-
-- Accessing "Book a Test":
-   - You can find the "Book a Test" section in the main menu or homepage.
-- Test Selection:
-   - Search for a specific test or browse categories.
-   - Click on a test for details, including name, description, price, and preparation instructions.
-- Cart:
-   - Add selected tests to your cart.
-   - Review tests, prices, and subtotal in the cart.
-   - Modify tests if needed.
-- Appointment Booking:
-   - Proceed to book appointments for selected tests.
----
 
 ## **CONCLUSION**
 
-***In the process of recreating the user interface (UI) of the Dr. PathLab website, we've aimed to capture the essence of a leading pathology laboratory service provider.
-Our project encompasses various sections, including Patients, Doctors, Business Partnership, About Us, Investors, Contact Us, Blogs, FAQs, and more.***
+***In the process of recreating the user interface (UI) of the Apollo 24/7 website, we've aimed to capture the essence of a leading pathology laboratory service provider.
+Our project encompasses various sections, including Home, Doctors, Medicine, Health Rsource, Circle, Contact Us, Blogs, FAQs, and more.***
 
 **Achievements**
-- Faithful Representation: We have strived to provide a faithful representation of the Dr. PathLab website, mirroring its visual aesthetics, layout, and key functionalities.
+- Faithful Representation: We have strived to provide a faithful representation of the Apollo 24/7 website, mirroring its visual aesthetics, layout, and key functionalities.
 - Learning and Skill Development: This project has been a valuable learning experience in web development.
 - We've honed our skills in HTML, CSS, and the Tailwind CSS framework, allowing us to create responsive and visually appealing web pages.
-- Portfolio Enhancement: The Dr. PathLab project serves as a testament to our web development abilities, providing a meaningful addition to our portfolios.
